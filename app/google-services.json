@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774131372461",
+    "project_id": "com-example-nyaamagnet-ca787",
+    "storage_bucket": "com-example-nyaamagnet-ca787.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774131372461:android:5436784edf6702c2e0d124",
+        "android_client_info": {
+          "package_name": "com.example.nyaamagnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioHKZRkYu-qqn2stSZ9aYaF2uqduJr4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
